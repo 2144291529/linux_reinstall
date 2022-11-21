@@ -1,8 +1,6 @@
 # linux_reinstall
 Something about tools
 
-
-中文描述
 脚本特色：
 
 全自动无人值守安装；
